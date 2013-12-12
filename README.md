@@ -1,0 +1,4 @@
+startcoin
+=========
+
+Cryptocurrency coin
